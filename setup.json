@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{"id":"01A",
+			"address_pairs": [
+				{"ip_left":"192.168.1.1", "ip_right":"192.168.1.20"},
+				{"ip_left":"192.168.1.1", "ip_right":"224.0.0.7"}
+			],
+			"configUP_nom": [
+				{"bw":"50000kbit", "jitter":"", "loss":"0%", "latency":"0ms"}
+			],
+			"configDOWN_nom": [
+				{"bw":"50000kbit", "jitter":"", "loss":"0%", "latency":"0ms"}
+			],
+			"configUP_test": [
+				{"bw":"50000kbit", "jitter":"", "loss":"30%", "latency":"20ms"}
+			],
+			"configDOWN_test": [
+				{"bw":"50000kbit", "jitter":"", "loss":"30%", "latency":"20ms"}
+			]
+		},
+		{"id":"01B",
+			"address_pairs": [
+				{"ip_left":"192.168.1.7", "ip_right":"192.168.1.8"},
+				{"ip_left":"192.168.1.9", "ip_right":"192.168.1.10"}
+			],
+			"configUP_nom": [
+				{"bw":"50000kbit", "jitter":"", "loss":"0%", "latency":"0ms"}
+			],
+			"configDOWN_nom": [
+				{"bw":"50000kbit", "jitter":"", "loss":"0%", "latency":"0ms"}
+			],
+			"configUP_test": [
+				{"bw":"150kbit", "jitter":"", "loss":"1%", "latency":"10ms"}
+			],
+			"configDOWN_test": [
+				{"bw":"150kbit", "jitter":"", "loss":"1%", "latency":"10ms"}
+			]
+		}
+	]
+}
