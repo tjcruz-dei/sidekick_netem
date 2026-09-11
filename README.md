@@ -16,4 +16,4 @@ The tool provides the following capabilities:
 
 ## Important remarks
 
-The tool is provided 'as-is', with no guarantees of any sort. Tested with a kali linux 2021.1 distro (kernel Debian 5.10.13-1kali1".
+The tool is provided 'as-is', with no guarantees of any sort. Tested with a kali linux 2021.1 distro (kernel Debian 5.10.13-1kali1).
