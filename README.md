@@ -1,5 +1,5 @@
 # sidekick_netem
-Sidekick too for experiment control using netem and transparent bridge VMs
+Sidekick tool for experiment control using netem and transparent bridge VMs
 
 ##Capabilities
 The sidekick tool was written for the purpose of introducing communications-related disturbances in a controlled way, to test/evaluate the performance and robustness of communications protocols, APIs or services.  The fundamental operation model for this tool is presented on the next figure.
