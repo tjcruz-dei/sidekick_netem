@@ -14,3 +14,6 @@ The tool provides the following capabilities:
 * Can operate in foreground or in daemonized/background mode
 * Trigger precision around 0.02s, on average (for overall system load <20%)
 
+## Important remarks
+
+The tools is provided 'as-is', with no guarantees of any sort. Tested with a kali linux 2021.1 distro (kernel Debian 5.10.13-1kali1".
